@@ -5,7 +5,7 @@ On my Github profile, you will find several projects I am have been working on l
 - Data Wrangling Project on NFL data
 - Data Mining Project on Carvana car prices
 
-### Contact Information:
+### Contact Information: 📫
 - (630)-664-1917
 - Sfmarren16@gmail.com
 - Sfmarren.com
