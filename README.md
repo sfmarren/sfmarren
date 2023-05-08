@@ -1,7 +1,15 @@
 ### Hello, my name is Sean Marren, and I am a recent graduate from the University of Iowa. After graduation, I will begin working for Marmon Foodservice Technologies as an Assistant IT Project Manager. Please look through my repositories as well as my personal portfolio website!
+
+### My GitHub Profile
+On my Github profile, you will find several projects I am have been working on lately. Additonally, you will also find several previous projects I completed.
+- Data Wrangling Project on NFL data
+- Data Mining Project on Carvana car prices
+
 ### Contact Information:
 - (630)-664-1917
 - Sfmarren16@gmail.com
+- Sfmarren.com
+- https://www.linkedin.com/in/sean-marren/
 <!--
 **sfmarren/sfmarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
